@@ -1,0 +1,7 @@
+para leitura de arquivos com python
+
+with open('o endereço do arquivo','w ou a ou x') as arquivo:
+    arquivo.write('ln o que vc quer escrever no arquivo'
+    conteudo=arquivo.read()
+print(conteúdo)lnViu isso foi escrito com python
+Viu isso foi escrito com python
